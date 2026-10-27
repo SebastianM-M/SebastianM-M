@@ -1,179 +1,114 @@
-
-<!-- ==================== HEADER ==================== -->
-
-<h1 align="center">👋 Hi, I'm Sebastian Morales</h1>
-
-<h3 align="center">
-  💻 Software Engineering Student | Universidad Técnica de Ambato
-</h3>
-
 <p align="center">
-  <i>Learning, building, and improving one project at a time.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,45:8B5CF6,100:22D3EE&height=190&section=header&text=¡Hola,%20soy%20Sebastián!&fontSize=38&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Estudiante%20de%20Ingeniería%20de%20Software&descAlignY=60&descSize=17" width="100%" alt="Encabezado animado: Sebastián, estudiante de Ingeniería de Software" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/SebastianM-M">
-    <img src="https://img.shields.io/badge/GitHub-SebastianM--M-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
   <a href="https://github.com/SebastianM-M?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-My_Projects-2563EB?style=for-the-badge&logo=github" alt="Explore projects" />
+    <img src="https://img.shields.io/badge/Mis_proyectos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Mis proyectos" />
+  </a>
+  <a href="https://github.com/SebastianM-M">
+    <img src="https://img.shields.io/badge/Perfil_de_GitHub-252538?style=for-the-badge&logo=github&logoColor=white" alt="Perfil de GitHub" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre mí
 
-🎓 I'm a Software Engineering student at **Universidad Técnica de Ambato (UTA), Ecuador**.
+🎓 Estudio **Ingeniería de Software en la Universidad Técnica de Ambato (UTA), Ecuador**.  
+💡 Aprendo construyendo proyectos y practicando programación.
 
-- 💻 Practicing programming through academic and personal projects.
-- 🌱 Learning Java, Python, HTML, SQL, and software development fundamentals.
-- 🧠 Interested in problem-solving, algorithms, databases, and software design.
-- 🛠️ Using Git and GitHub to manage and share my code.
-- 🎯 Working toward becoming a skilled and versatile software developer.
+- 🌱 Aprendiendo Java, Python, HTML y SQL.
+- 🧠 Interesado en resolver problemas, los algoritmos y las bases de datos.
+- 🛠️ Uso Git y GitHub para organizar y compartir mi código.
+- 🎯 Quiero crecer como desarrollador y crear software útil.
 
----
-
-## 🛠️ Technologies & Tools
+## 🧰 Tecnologías y herramientas
 
 <p align="center">
-  <a href="https://dev.java/learn/">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  </a>
-  <a href="https://docs.python.org/3/">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
-  </a>
-  <a href="https://www.w3schools.com/sql/">
-    <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL" />
-  </a>
-  <a href="https://git-scm.com/doc">
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  </a>
-  <a href="https://docs.github.com/">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+  <img src="https://img.shields.io/badge/Java-F59E0B?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/SQL-2563EB?style=flat-square&logo=databricks&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-252538?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
----
+## 🚀 Proyectos destacados
 
-## 🚀 Featured Projects
+### 📘 Ejercicios básicos de HTML
 
-### 📘 Basic HTML Exercises
-
-Practice repository focused on learning HTML fundamentals.
+Prácticas para aprender y reforzar los fundamentos de HTML.
 
 <p>
   <a href="https://github.com/SebastianM-M/comandos_basicos_b">
-    <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github" alt="View HTML repository" />
+    <img src="https://img.shields.io/badge/Ver_proyecto-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Ver proyecto de HTML" />
   </a>
 </p>
 
-### 💡 More Projects
+### 💡 Más proyectos
 
-Explore my repositories to discover programming exercises, academic work, and future software projects.
+Explora mis ejercicios de programación, trabajos académicos y proyectos en desarrollo.
 
-<p align="center">
+<p>
   <a href="https://github.com/SebastianM-M?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore_All_Repositories-2563EB?style=for-the-badge&logo=github" alt="All repositories" />
+    <img src="https://img.shields.io/badge/Ver_todos_mis_repositorios-22A6B3?style=for-the-badge&logo=github&logoColor=white" alt="Ver todos mis repositorios" />
   </a>
 </p>
 
----
-
-## 📊 GitHub Statistics
+## 📊 Mi actividad en GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=SebastianM-M&show_icons=true&theme=tokyonight&hide_border=true&count_private=false"
-    alt="GitHub statistics"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=SebastianM-M&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9&icon_color=22D3EE&rank_icon=github" height="165" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianM-M&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9" height="165" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianM-M&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most used programming languages"
-  />
+  <img src="https://streak-stats.demolab.com?user=SebastianM-M&hide_border=true&background=0D1117&ring=8B9DFF&fire=22D3EE&currStreakLabel=8B9DFF&sideLabels=C9D1D9&dates=8B949E" height="165" alt="Racha de contribuciones en GitHub" />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=SebastianM-M&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-  />
-</p>
+## 🗺️ Mi ruta de aprendizaje
 
----
+### 🌱 Programación y desarrollo
+- ✅ Crear el README de mi perfil.
+- ⬜ Reforzar mis fundamentos de Java.
+- ⬜ Practicar programación orientada a objetos.
+- ⬜ Mejorar mis habilidades con Python.
+- ⬜ Crear proyectos útiles para seguir aprendiendo.
 
-## 🗺️ My Learning Roadmap
+### 🗄️ Bases de datos e ingeniería de software
+- ⬜ Practicar consultas SQL y diseño de bases de datos.
+- ⬜ Aprender sobre estructuras de datos y algoritmos.
+- ⬜ Mejorar en modelado y diseño de software.
+- ⬜ Crear aplicaciones conectadas a bases de datos.
 
-<details>
-  <summary><b>🌱 Programming & Development</b></summary>
+### 🌐 Desarrollo web y herramientas
+- ✅ Practicar los fundamentos de HTML.
+- ⬜ Aprender CSS y JavaScript.
+- ⬜ Mejorar el manejo de versiones con Git.
+- ⬜ Practicar la colaboración usando GitHub.
 
-  <br>
+## 🎯 Mis objetivos
 
-  - [x] Create my GitHub profile README.
-  - [ ] Strengthen Java fundamentals.
-  - [ ] Practice object-oriented programming.
-  - [ ] Improve Python programming skills.
-  - [ ] Build useful programming projects.
+- 📚 Aprender y practicar con constancia.
+- 🧩 Resolver problemas para mejorar mi lógica.
+- 🏗️ Crear proyectos completos y bien documentados.
+- 🤝 Aprender a colaborar con otros desarrolladores.
+- 🚀 Construir software que resuelva problemas reales.
 
-</details>
-
-<details>
-  <summary><b>🗄️ Databases & Software Engineering</b></summary>
-
-  <br>
-
-  - [ ] Practice SQL queries and database design.
-  - [ ] Learn more about data structures and algorithms.
-  - [ ] Improve software modeling and design.
-  - [ ] Build applications connected to databases.
-
-</details>
-
-<details>
-  <summary><b>🌐 Web Development & Tools</b></summary>
-
-  <br>
-
-  - [x] Practice HTML fundamentals.
-  - [ ] Learn CSS and JavaScript.
-  - [ ] Improve Git version control skills.
-  - [ ] Practice collaborative development with GitHub.
-
-</details>
-
----
-
-## 🎯 My Goals
-
-- 📚 Keep learning and practicing consistently.
-- 🧩 Solve programming problems and improve logical thinking.
-- 🏗️ Create complete, well-documented projects.
-- 🤝 Learn to collaborate effectively with other developers.
-- 🚀 Build software that solves real problems.
-
----
-
-## 🤝 Connect With Me
+## 🤝 Conecta conmigo
 
 <p align="center">
   <a href="https://github.com/SebastianM-M">
-    <img src="https://img.shields.io/badge/GitHub-Follow_My_Work-181717?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/Visita_mi_perfil-252538?style=for-the-badge&logo=github&logoColor=white" alt="Visitar mi perfil de GitHub" />
   </a>
   <a href="https://github.com/SebastianM-M?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-Explore-2563EB?style=for-the-badge&logo=github" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Explora_mis_proyectos-6C63FF?style=for-the-badge&logo=github&logoColor=white" alt="Explorar mis proyectos" />
   </a>
 </p>
 
-<p align="center">
-  <i>“Great software is built one step at a time.”</i>
-</p>
+<p align="center"><i>Aprendiendo, construyendo y mejorando proyecto a proyecto.</i></p>
 
 <p align="center">
-  ⭐ Thanks for visiting my profile! ⭐
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,50:8B5CF6,100:6C63FF&height=110&section=footer&animation=twinkling" width="100%" alt="" />
 </p>
